@@ -1,0 +1,5 @@
+Number of strings: 7
+Height of the tree: 4
+Number of leaves in the tree: 3
+No. strings right sub-tree = 1
+No. strings left sub-tree = 5
